@@ -1,6 +1,6 @@
 Name:		texlive-grayhints
 Version:	49052
-Release:	1
+Release:	2
 Summary:	Produce 'gray hints' to a variable text field
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grayhints
