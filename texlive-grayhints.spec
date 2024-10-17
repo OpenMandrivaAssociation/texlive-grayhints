@@ -3,7 +3,7 @@ Version:	49052
 Release:	2
 Summary:	Produce 'gray hints' to a variable text field
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grayhints
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/grayhints
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/grayhints.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/grayhints.doc.r%{version}.tar.xz
